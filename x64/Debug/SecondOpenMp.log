@@ -1,0 +1,3 @@
+﻿  SecondOpenMp.cpp
+C:\Users\moataz\source\repos\SecondOpenMp\SecondOpenMp\SecondOpenMp.cpp(122,16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  SecondOpenMp.vcxproj -> C:\Users\moataz\source\repos\SecondOpenMp\x64\Debug\SecondOpenMp.exe
